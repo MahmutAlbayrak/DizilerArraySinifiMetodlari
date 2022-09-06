@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\bin\Debug\net6.0\DizilerArraySinifiMetodlari.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\bin\Debug\net6.0\DizilerArraySinifiMetodlari.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\bin\Debug\net6.0\DizilerArraySinifiMetodlari.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\bin\Debug\net6.0\DizilerArraySinifiMetodlari.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\bin\Debug\net6.0\DizilerArraySinifiMetodlari.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\refint\DizilerArraySinifiMetodlari.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\DizilerArraySinifiMetodlari.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\DizilerArraySinifiMetodlari\obj\Debug\net6.0\ref\DizilerArraySinifiMetodlari.dll
